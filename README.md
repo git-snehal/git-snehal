@@ -1,5 +1,6 @@
 <div align="center">
-  <video src="https://raw.githubusercontent.com/git-snehal/git-snehal/main/assets/cat-coding.mp4" width="100%" autoplay loop muted playsinline></video>
+  <!-- Animated Coding Cat Banner -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" alt="Coding Cat">
 </div>
 
 # 👋 Welcome! I'm Snehal
