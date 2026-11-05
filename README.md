@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cat-coding.gif" width="980" height="540" alt="Snehal's coding cat">
+  <img src="./assets/cat-coding.gif" width="980" alt="Snehal's coding cat">
 </div>
 
 <div align="center">
@@ -19,17 +19,21 @@
 
 ## ⚡ About Me
 
-> *(Add your custom about section here)*
+- **Vibe Coder** & daily learner of different language models and emerging AI architectures.
+- Aspiring to pursue a formal degree in **Artificial Intelligence and Machine Learning (AI/ML)**.
+- Passionate about turning creative concepts into reality, with the ultimate goal of building impactful **real-life projects**.
+- Always exploring new ways to bridge software development, automation, and intelligent systems.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,kotlin,nodejs,html,css,mongodb,mysql,py,claude&perline=9" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=js,kotlin,nodejs,html,css,mongodb,mysql,sqlite,py,claude&perline=10" alt="Skills">
 </p>
 
-- **Languages & Frameworks:** JavaScript, Kotlin, Node.js, HTML, CSS, Python, Pyrogram
+- **Languages & Frameworks:** JavaScript, Kotlin, Node.js, Python, Pyrogram
+- **Web & Markup:** HTML, CSS
 - **Databases:** MongoDB, MySQL, SQLite
 - **Specialties:** Claude Vibe Coder & Backend Automation
 
@@ -37,10 +41,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-snehal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-snehal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" width="48%" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-snehal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="100%" />
