@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnmolBaranwal/Cool-GIFs-For-GitHub/main/assets/coding-night.gif" width="100%" alt="Animated Coding Setup Banner">
+</div>
 
-<!--
-**git-snehal/git-snehal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub Universe!
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=blueviolet&label=Followers&style=flat-square" alt="GitHub Followers">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ About Me
+
+```text
+[Loading user profile and narrative sequences...]
