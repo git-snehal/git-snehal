@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cat-coding.gif" width="480" alt="Snehal's coding cat">
+  <img src="./assets/cat-coding.gif" width="720" alt="Snehal's coding cat">
 </div>
 
 <div align="center">
