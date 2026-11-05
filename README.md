@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cat-coded/cat-coded/main/assets/cat-typing.gif" width="100%" alt="Coding Cat">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Keyboard Cat Coding">
 </div>
-
 # 👋 Welcome! I'm Snehal
 
 <p align="center">
