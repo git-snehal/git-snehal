@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cat-coded/cat-coded/main/assets/cat-typing.gif" width="100%" alt="Coding Cat">
+  <img src="./assets/cat-coding.gif" width="100%" alt="Coding Cat">
 </div>
 
 # 👋 Welcome! I'm Snehal
