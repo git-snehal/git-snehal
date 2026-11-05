@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./assets/cat-coding.gif" width="100%" alt="Coding Cat">
+  <video src="./assets/cat-coding.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
-
 # 👋 Welcome! I'm Snehal
 
 <p align="center">
