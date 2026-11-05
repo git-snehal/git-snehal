@@ -26,10 +26,10 @@
 
 ---
 
-##  Skills
+## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,kotlin,nodejs,html,css,mongodb,mysql,sqlite,py,claude&perline=10" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=js,kotlin,nodejs,html,css,mongodb,mysql,sqlite,py&perline=9" alt="Skills">
 </p>
 
 - **Languages & Frameworks:** JavaScript, Kotlin, Node.js, Python, Pyrogram
@@ -39,15 +39,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-snehal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-snehal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" width="48%" />
-</div>
+## 📊 GitHub Trophies & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-snehal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-snehal&theme=tokyonight" alt="Profile Summary Card" width="100%" />
 </p>
 
 ---
